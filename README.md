@@ -166,6 +166,6 @@ Learning Oracle SQL to strengthen my data querying skills for QA, test data mana
 
 ---
 
-*⭐ Star this repo if you're on a similar SQL learning journey!*
+
 
 </div>
